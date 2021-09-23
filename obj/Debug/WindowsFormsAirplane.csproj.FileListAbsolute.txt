@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WindowsFormsAirplane\bin\Debug\WindowsFormsAirplane.exe.config
+C:\Users\user\source\repos\WindowsFormsAirplane\bin\Debug\WindowsFormsAirplane.exe
+C:\Users\user\source\repos\WindowsFormsAirplane\bin\Debug\WindowsFormsAirplane.pdb
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.exe
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.pdb
+C:\Users\user\source\repos\WindowsFormsAirplane\obj\Debug\WindowsFormsAirplane.FormPlane.resources
